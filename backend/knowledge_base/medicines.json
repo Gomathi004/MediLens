@@ -1,0 +1,101 @@
+[
+    {
+        "medicine_name": "Amoxicillin",
+        "generic_name": "Amoxicillin",
+        "category": "Antibiotic",
+        "dosage_form": "Capsule",
+        "common_strengths": [
+            "250 mg",
+            "500 mg"
+        ],
+        "route": "Oral",
+        "description": "Amoxicillin is a penicillin-class antibacterial medicine used to treat certain bacterial infections.",
+        "simple_explanation": "Amoxicillin is an antibiotic used to treat certain bacterial infections.",
+        "important_information": [
+            "Use this medicine only as directed by a healthcare professional.",
+            "People with a history of serious allergy to penicillin or related beta-lactam antibiotics should inform their healthcare professional before use.",
+            "Do not change the prescribed dose or duration without professional advice."
+        ],
+        "source": "DailyMed",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82c0c5d1-df2d-4352-bd12-99f955af569e"
+    },
+    {
+        "medicine_name": "Biotin",
+        "generic_name": "Biotin",
+        "category": "Dietary Supplement",
+        "dosage_form": "Supplement",
+        "common_strengths": [
+            "30 mcg",
+            "1000 mcg",
+            "5000 mcg",
+            "10000 mcg"
+        ],
+        "route": "Oral",
+        "description": "Biotin is a B vitamin that is naturally present in some foods and is also available as a dietary supplement.",
+        "simple_explanation": "Biotin is a B vitamin commonly found in foods and dietary supplements.",
+        "important_information": [
+            "Biotin supplements can interfere with some laboratory tests and may cause falsely high or falsely low results.",
+            "Tell your healthcare professional about biotin or other supplements you are taking.",
+            "Use the product according to its label and seek professional advice when needed."
+        ],
+        "source": "NIH Office of Dietary Supplements",
+        "source_url": "https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/"
+    },
+    {
+        "medicine_name": "Omega 3",
+        "generic_name": "Omega-3 fatty acids",
+        "category": "Dietary Supplement",
+        "dosage_form": "Supplement",
+        "common_strengths": [
+            "Fish oil products vary by EPA and DHA content"
+        ],
+        "route": "Oral",
+        "description": "Omega-3 fatty acids are polyunsaturated fatty acids found in foods such as fish and in dietary supplements such as fish oil.",
+        "simple_explanation": "Omega-3 is a group of fatty acids found in foods and supplements such as fish oil.",
+        "important_information": [
+            "Fish oil is a type of dietary supplement that can provide omega-3 fatty acids.",
+            "Supplement products can differ in their EPA and DHA amounts.",
+            "Tell your healthcare professional about supplements you use, especially when taking medicines."
+        ],
+        "source": "NIH Office of Dietary Supplements",
+        "source_url": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/"
+    },
+    {
+        "medicine_name": "Fish Oil",
+        "generic_name": "Omega-3 fatty acids",
+        "category": "Dietary Supplement",
+        "dosage_form": "Supplement",
+        "common_strengths": [
+            "Varies by product"
+        ],
+        "route": "Oral",
+        "description": "Fish oil is a dietary supplement that can provide the omega-3 fatty acids EPA and DHA.",
+        "simple_explanation": "Fish oil is a supplement that provides omega-3 fatty acids such as EPA and DHA.",
+        "important_information": [
+            "Different fish oil products can contain different amounts of EPA and DHA.",
+            "Follow the product label and do not assume that all fish oil products have the same composition.",
+            "Tell your healthcare professional about supplements you use."
+        ],
+        "source": "NIH Office of Dietary Supplements",
+        "source_url": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/"
+    },
+    {
+        "medicine_name": "Banaba Blend",
+        "generic_name": "Banaba-containing dietary supplement",
+        "category": "Dietary Supplement",
+        "dosage_form": "Supplement",
+        "common_strengths": [
+            "Varies by product"
+        ],
+        "route": "Oral",
+        "description": "Banaba-containing products are dietary supplements that may contain banaba leaf or banaba extract along with other ingredients.",
+        "simple_explanation": "Banaba Blend appears to be a dietary supplement containing banaba and other ingredients. The exact composition depends on the product label.",
+        "important_information": [
+            "Dietary supplement products can differ in their ingredients and amounts.",
+            "The presence of an ingredient on a supplement label does not establish that the product treats or prevents a disease.",
+            "People taking medicines or managing a health condition should discuss supplements with a healthcare professional."
+        ],
+        "source": "NIH Office of Dietary Supplements / Dietary Supplement Label Database",
+        "source_url": "https://api.ods.od.nih.gov/dsld/"
+    }
+]

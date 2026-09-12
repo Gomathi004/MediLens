@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic-settings
+pytesseract
+Pillow
+chromadb
+sentence-transformers
+openai
+google-genai
+groq
+python-multipart
+clerk-backend-api

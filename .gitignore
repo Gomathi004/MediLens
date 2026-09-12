@@ -1,0 +1,68 @@
+# ==============================
+# Environment / Secrets
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+backend/.env
+frontend/.env
+
+
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+.venv/
+venv/
+env/
+
+.pytest_cache/
+.mypy_cache/
+
+
+# ==============================
+# Backend generated files
+# ==============================
+
+backend/uploads/
+backend/vector_db/
+
+
+# ==============================
+# Frontend
+# ==============================
+
+node_modules/
+frontend/node_modules/
+
+dist/
+frontend/dist/
+
+
+# ==============================
+# IDE / Editor
+# ==============================
+
+.vscode/
+.idea/
+
+
+# ==============================
+# OS generated files
+# ==============================
+
+.DS_Store
+Thumbs.db
+
+
+# ==============================
+# Logs
+# ==============================
+
+*.log
